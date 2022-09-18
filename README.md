@@ -20,4 +20,4 @@ This is a C# library to facilitate code writing in C# by removing repetitive lon
  
 # Code Example
 
-<img src="https://cdn.discordapp.com/attachments/383430486506340352/1021009656681873508/unknown.png" width="400">
+<img src="https://cdn.discordapp.com/attachments/383430486506340352/1021009656681873508/unknown.png" width="600">
