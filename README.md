@@ -18,4 +18,6 @@ This is a C# library to facilitate code writing in C# by removing repetitive lon
 ### Bigger examples such as: 
  - **Get.UserAnswer();** -  "A highly modular way to request input from the user, whether its only characters, digits or both. Custom error messages and custom despised items"
  
- 
+# Code Example
+
+<img src="https://cdn.discordapp.com/attachments/383430486506340352/1021009656681873508/unknown.png" width="400">
