@@ -12,7 +12,6 @@ This is a C# library to facilitate code writing in C# by removing repetitive lon
  - **Sleep();** - System.Threading.Thread.Sleep();
  
 ### Code Snippets!
-(Kenny) - (Equivalent in C#)
  - **NC** -  New Class
  - **NN** -  New Namespace
  - **NF** - New Function
